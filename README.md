@@ -8,7 +8,7 @@
 ## 包含的功能
 
 * 处理css文件, 给CSS3属性增加浏览器私有前缀 [grunt-autoprefixer](https://github.com/ai/autoprefixer)
-* 编译CoffeeScript文件为js文件 [](https://github.com/gruntjs/grunt-contrib-coffee)
+* 编译CoffeeScript文件为js文件 [grunt-contrib-coffee](https://github.com/gruntjs/grunt-contrib-coffee)
 * 编译Sass文件为css文件 [grunt-contrib-compass](https://github.com/gruntjs/grunt-contrib-compass)
 * 将多个文件合并为一个文件 [grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat)
 * 复制文件和文件夹到新的路径 [grunt-contrib-copy](https://github.com/gruntjs/grunt-contrib-copy)
