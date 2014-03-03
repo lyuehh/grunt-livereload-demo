@@ -6,7 +6,8 @@
     "es5-shim": "~2.1.0",
     "underscore": "*",
     "underscore.string": "*",
-    "jquery": "*"
+    "jquery": "*",
+    "d3": "*"
   },
   "devDependencies": {
   }
